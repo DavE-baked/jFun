@@ -1,2 +1,2 @@
 # jFun
-What ever you want, just code.
+Whatever you want, just code.
